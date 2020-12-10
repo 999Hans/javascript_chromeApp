@@ -1,3 +1,18 @@
+body {
+  background-color: gold;
+}
+.container {
+  position: relative;
+}
+
+.js-clock,
+.js-greeting {
+  display: flex;
+  /* flex-direction: column;
+  justify-content: center;
+  text-align: center; */
+}
+
 .nonDisplay {
   display: none;
 }
